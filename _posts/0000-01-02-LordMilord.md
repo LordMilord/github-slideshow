@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+SIX IX NINE INE
 Use the left arrow to go back!
